@@ -4,7 +4,7 @@ class Msgexp < Formula
   version "2.1.1b"
 
   url "https://github.com/iskng/imessage-exporter/releases/download/#{version}/imessage-exporter"
-  sha256 "4d1f7ad1558ddf20a142247f89a193605c4871c212c4c2a91dba24c12c85fa68"
+  sha256 "bcf1d68404a52f56314858acd1bb25dbaab4823d88753953ec46a9e584a95317"
 
   depends_on :macos
   depends_on arch: :arm64
