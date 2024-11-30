@@ -3,7 +3,7 @@ class Msgexp < Formula
   homepage "https://github.com/iskng/imessage-exporter"
   version "2.1.1a"
 
-  url "https://github.com/iskng/imessage-exporter/releases/download/v#{version}/imessage-exporter"
+  url "https://github.com/iskng/imessage-exporter/releases/download/#{version}/imessage-exporter"
   sha256 "4d1f7ad1558ddf20a142247f89a193605c4871c212c4c2a91dba24c12c85fa68"
 
   depends_on :macos
