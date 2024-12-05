@@ -1,7 +1,7 @@
 class Msgexp < Formula
   desc "Tool to export iMessage data and run iMessage diagnostics"
   homepage "https://github.com/iskng/imessage-exporter"
-  version "2.1.1g"
+  version "2.1.1h"
 
   url "https://github.com/iskng/imessage-exporter/releases/download/#{version}/imessage-exporter"
   sha256 "0ba6b4a372595d19a8b50dc5792746a187e5472a541c0092a850959b716b8b9a"
